@@ -1,5 +1,5 @@
 # Flights
-## Desciption
+## Description
 Web app displaying flights and enabling flight booking.
 ## Tech Stack
 •	Backend: C#, ASP.NET Core with Entity Framework.
