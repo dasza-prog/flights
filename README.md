@@ -1,6 +1,6 @@
 # Flights
 ## Desciption
-A web application which shows all flight and has an implemented booking system
+A web application which shows all flights and has a booking system feature as well.
 
 ## Tech Stack
 Backend: C#, ASP.NET Core
