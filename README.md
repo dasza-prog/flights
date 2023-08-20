@@ -3,6 +3,6 @@
 Web app displaying flights and enabling flight booking.
 ## Tech Stack
 •	Backend: C#, ASP.NET Core with Entity Framework.
-•	Frontend: AngularJS, TypeScript.
-•	Database: MySQL.
-•	Utilized RESTful HTTP methods.
+<br>•	Frontend: AngularJS, TypeScript.
+<br>•	Database: MySQL.
+<br>•	Utilized RESTful HTTP methods.
